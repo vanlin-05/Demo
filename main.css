@@ -7,6 +7,15 @@ body{
 img{
   border-radius: 75px;
 }
+h3{
+  
+  color: slateblue;
+  border-radius: 10px;
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
 a{
   border-radius: 10px;
   background-color: white;
